@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on to become a Software Engineer<br>🌱 I’m currently learning different tech stacks and programming languages to hone my technical skill sets<br>💬 Ask me about anything! I am an open book and love to have conversations<br>⚡ Fun fact, I enjoy playing basketball
+🔭 I’m currently working on becoming a Software Engineer<br>🌱 I’m currently learning different tech stacks and programming languages to hone my technical skill sets<br>💬 Ask me about anything! I am an open book and love to have conversations<br>⚡ Fun fact, I enjoy playing basketball
 
 
 ## 🌐 Socials:
